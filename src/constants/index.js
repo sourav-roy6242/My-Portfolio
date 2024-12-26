@@ -167,15 +167,15 @@ import {
     },
 
     {
-      title: "E-COMMERCE WEBSITE",
+      title: "TOMATO",
       // company_name: "Meta",
       // icon: meta,
       // iconBg: "#E6DEDD",
       // date: "Jan 2023 - Present",
       points: [
-        "Revolutionizing online shopping, this E-Commerce website harnesses the power of the MERN stack – MongoDB, Express.js, React.js, and Node.js",
-        "It boasts a robust backend, engaging frontend, and seamless integration,offering users a comprehensive and efficient shopping experience.",
-        " From product selection to checkout, it's a MERN masterpiece for modern E Commerce.",
+       " • Developed a food delivery and restaurant review platform using React, JavaScript, and CSS, replicating keyfeatures of Zomato with a focus on dynamic content and intuitive navigation.",
+        "• Integrated features such as restaurant search, user reviews, ratings, and an ordering system to provide a complete dining and food discovery experience.",
+        " • Enhanced responsiveness and user engagement with a streamlined UI, ensuring optimal performance across devices. "
       ],
     },
   ];
