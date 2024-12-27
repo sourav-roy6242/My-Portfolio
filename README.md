@@ -20,13 +20,16 @@ My portfolio link : https://my-portfolio-pkwp.vercel.app/
 
 #Screen Shots
 
-- 1 
+- 1
+  
 ![Image](https://github.com/user-attachments/assets/9d89f346-5961-48fa-a958-6d900b44d9d2)
 
-- 2 
+- 2
+  
 ![Image](https://github.com/user-attachments/assets/71bf55e2-dd7b-4173-89f5-b7d39e5ae2f5)
 
 - 3
+  
 ![Image](https://github.com/user-attachments/assets/6a198948-42b8-4f8d-9c7b-bea3d204440f)
 
 ## Tech Stack
