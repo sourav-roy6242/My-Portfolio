@@ -19,6 +19,9 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 My portfolio link : https://my-portfolio-pkwp.vercel.app/
 
 
+![Image](https://github.com/user-attachments/assets/9d89f346-5961-48fa-a958-6d900b44d9d2)
+
+
 ## Tech Stack
 
 - Frontend: React, Tailwind CSS, Three.js
