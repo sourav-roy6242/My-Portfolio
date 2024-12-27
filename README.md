@@ -4,6 +4,7 @@
 
 This is my personal portfolio website showcasing my skills, projects, and experience as a full-stack web developer. It features an interactive design with 3D animations built using Three.js and styled with Tailwind CSS.
 
+![Image](https://github.com/user-attachments/assets/b1bb4b28-fa5a-4120-a7a0-5c0fccee2533)
 
 ## Features
 
